@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 
 ''' Here the error message detial function will give custom error message
     i the customexception class and def we have error_detail will managed by sys
